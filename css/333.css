@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	/*background-image: url(img/底色.jpg);*/
+}
+
+.grandfather {
+	background-color: #f7e4f4;
+	margin: 0 auto;
+	width: 1920px;
+	height: 1100px;
+	border: solid black 2px;
+}
+
+.father {
+	background-color: aliceblue;
+	margin: 0 auto;
+	width: 1500px;
+	height: 1100px;
+	border: solid lightblue;
+}
+
+.one {
+	width: 1500px;
+	height: 300px;
+	background-image: url(../img/合照.jpg);
+	background-repeat: no-repeat;
+}
+
+.two {
+	width: 1500px;
+	height: 50px;
+	background-color: cornsilk;
+}
+
+ul {
+	list-style: none;
+}
+
+.two li {
+	float: left;
+	width: 300px;
+	height: 50px;
+}
+
+a:link {
+	display: block;
+	width: 120px;
+	height: 48px;
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	line-height: 48px;
+}
+
+a:hover {
+	color: pink;
+}
+
+.three {
+	margin-top: 50px;
+	width: 1500px;
+	height: 800px;
+}
+
+.three h1 {
+	color: black;
+	font-size: 28px;
+	text-align: center;
+}
+.three1{
+	width: 500px;
+	height: 500px;
+	margin-top: 30px;
+	float: left;
+}
+.three3{
+	margin-top: 40px;
+	margin-left: 50px;
+	float: left;
+	width: 800px;
+	height: 500px;
+	font-size: 26px;
+	color: black;
+	text-align: center;
+	
+	
+}
+.three3 p{
+	margin-bottom: 50px;
+}
